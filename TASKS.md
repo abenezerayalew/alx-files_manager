@@ -1,5 +1,6 @@
 # Tasks To Complete
 
+
 + [x] 0. **Redis utils**
   + Inside the folder [`utils`](utils), create a file [`redis.js`](utils/redis.js) that contains the class `RedisClient`.
   + `RedisClient` should have:
